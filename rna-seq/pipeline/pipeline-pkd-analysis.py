@@ -170,7 +170,7 @@ def aggregateGeneExpression(infiles, outfile):
 @follows(mkdir('s3-metadata.dir'))
 
 @files(annotation_file,
-	   's3-metadata.dir/pld-sample_metadata.txt')
+	   's3-metadata.dir/pkd-sample_metadata.txt')
 
 def getSampleMetadata(infile, outfile):
 
