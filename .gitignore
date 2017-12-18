@@ -18,3 +18,5 @@ rna-seq/pipeline/notebooks/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 *.pyc
 
 *.txt
+
+rna-seq/pipeline/notebooks/.~iko_notebook_v2.ipynb
